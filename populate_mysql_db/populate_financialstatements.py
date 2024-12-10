@@ -14,7 +14,7 @@ DB_PASSWORD = "root"
 DB_NAME = "SPYStocks"
 
 # Alpha Vantage API key
-api_key = "JALM7ZSSV614IPA3"
+api_key = "JALM7ZS3V614IPA3"
 
 # Initialize Alpha Vantage FundamentalData client
 fd = FundamentalData(key=api_key, output_format="pandas")
