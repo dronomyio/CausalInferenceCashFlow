@@ -1,0 +1,8 @@
+https://www.alphavantage.co/query?function=BALANCE_SHEET&symbol=IBM&apikey=demo
+https://documentation.alphavantage.co/FundamentalDataDocs/gaap_documentation.html#BalanceSheet
+
+https://www.alphavantage.co/query?function=CASH_FLOW&symbol=IBM&apikey=demo
+
+https://www.alphavantage.co/query?function=INCOME_STATEMENT&symbol=IBM&apikey=demo
+
+Causal inference of cashflow
